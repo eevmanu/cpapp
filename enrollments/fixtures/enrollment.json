@@ -1,0 +1,34 @@
+[
+    {
+        "fields": {
+            "week": 1,
+            "student": 1
+        },
+        "model": "enrollments.Enrollment",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "week": 3,
+            "student": 1
+        },
+        "model": "enrollments.Enrollment",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "week": 2,
+            "student": 2
+        },
+        "model": "enrollments.Enrollment",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "week": 4,
+            "student": 2
+        },
+        "model": "enrollments.Enrollment",
+        "pk": 5
+    }
+]

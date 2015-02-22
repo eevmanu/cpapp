@@ -1,0 +1,5 @@
+*.pyc
+.idea/
+venv
+staticfiles/
+_extra_files/

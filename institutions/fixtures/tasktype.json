@@ -1,0 +1,74 @@
+[
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/face.jpg",
+            "name": "Practiquemos",
+            "precollege": 1
+        },
+        "model": "institutions.TaskType",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/pencil.jpg",
+            "name": "Cálculo y Resolución de Problemas (CRP)",
+            "precollege": 1
+        },
+        "model": "institutions.TaskType",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/face.jpg",
+            "name": "Practiquemos",
+            "precollege": 2
+        },
+        "model": "institutions.TaskType",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/pencil.jpg",
+            "name": "Cálculo y Resolución de Problemas (CRP)",
+            "precollege": 2
+        },
+        "model": "institutions.TaskType",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/face.jpg",
+            "name": "Practiquemos",
+            "precollege": 3
+        },
+        "model": "institutions.TaskType",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/pencil.jpg",
+            "name": "Cálculo y Resolución de Problemas (CRP)",
+            "precollege": 3
+        },
+        "model": "institutions.TaskType",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/face.jpg",
+            "name": "Practiquemos",
+            "precollege": 4
+        },
+        "model": "institutions.TaskType",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "icon": "https://s3.amazonaws.com/manuel-staticfiles/logos/pencil.jpg",
+            "name": "Cálculo y Resolución de Problemas (CRP)",
+            "precollege": 4
+        },
+        "model": "institutions.TaskType",
+        "pk": 8
+    }
+]

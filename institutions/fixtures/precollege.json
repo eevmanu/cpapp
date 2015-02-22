@@ -1,0 +1,67 @@
+[
+    {
+        "fields": {
+            "discount1": 5,
+            "discount2": 10,
+            "icon": "",
+            "name": "CEPREPUC - Ciencias",
+            "price_per_week": 10,
+            "weeks_discount1": 2,
+            "weeks_discount2": 5
+        },
+        "model": "institutions.PreCollege",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "discount1": 5,
+            "discount2": 10,
+            "icon": "",
+            "name": "CEPREPUC - Letras",
+            "price_per_week": 10,
+            "weeks_discount1": 2,
+            "weeks_discount2": 5
+        },
+        "model": "institutions.PreCollege",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "discount1": 5,
+            "discount2": 10,
+            "icon": "",
+            "name": "Pre Lima",
+            "price_per_week": 10,
+            "weeks_discount1": 2,
+            "weeks_discount2": 5
+        },
+        "model": "institutions.PreCollege",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "discount1": 5,
+            "discount2": 10,
+            "icon": "",
+            "name": "Pre USIL",
+            "price_per_week": 10,
+            "weeks_discount1": 2,
+            "weeks_discount2": 5
+        },
+        "model": "institutions.PreCollege",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "discount1": 5,
+            "discount2": 10,
+            "icon": "",
+            "name": "Pre UPC",
+            "price_per_week": 10,
+            "weeks_discount1": 2,
+            "weeks_discount2": 5
+        },
+        "model": "institutions.PreCollege",
+        "pk": 5
+    }
+]

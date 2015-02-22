@@ -1,0 +1,42 @@
+[
+    {
+        "fields": {
+            "begin": "2014-07-14",
+            "end": "2014-07-18",
+            "name": "Semana 1",
+            "season": 1
+        },
+        "model": "institutions.Week",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "begin": "2014-07-21",
+            "end": "2014-07-25",
+            "name": "Semana 2",
+            "season": 1
+        },
+        "model": "institutions.Week",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "begin": "2014-07-14",
+            "end": "2014-07-18",
+            "name": "Semana 1",
+            "season": 2
+        },
+        "model": "institutions.Week",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "begin": "2014-07-21",
+            "end": "2014-07-25",
+            "name": "Semana 2",
+            "season": 2
+        },
+        "model": "institutions.Week",
+        "pk": 4
+    }
+]

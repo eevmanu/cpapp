@@ -1,0 +1,22 @@
+[
+    {
+        "fields": {
+            "begin": "2014-01-01",
+            "end": "2014-07-14",
+            "name": "Ciclo 1",
+            "precollege": 1
+        },
+        "model": "institutions.Season",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "begin": "2014-07-15",
+            "end": "2014-12-24",
+            "name": "Ciclo 2",
+            "precollege": 1
+        },
+        "model": "institutions.Season",
+        "pk": 2
+    }
+]
